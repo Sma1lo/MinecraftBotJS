@@ -1,7 +1,6 @@
 # Minecraft Bot
 
-I used this library to write the bot: mineflayer.
-The bot itself is written in javascript, as well as nodejs.
+The bot was written using the library mineflayer, and I also used javascript and nodejs.
 
 ## Useful links
 
